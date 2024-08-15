@@ -1,0 +1,65 @@
+{
+  "_from": "hdx-t2-query",
+  "_id": "hdx-t2-query@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-pWlBOA5RhW7VpRF1cAyVliEZAmhJKGucoYaR4xBlMnO6C3HzcrZcdsi9QemsJb1ydqQyiFfHrxmPH2WWy2/5ow==",
+  "_location": "/hdx-t2-query",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "hdx-t2-query",
+    "name": "hdx-t2-query",
+    "escapedName": "hdx-t2-query",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/hdx-t2-query/-/hdx-t2-query-1.0.4.tgz",
+  "_shasum": "1a1918af3d1682964ed08d1e1fe5055a82f71fe2",
+  "_spec": "hdx-t2-query",
+  "_where": "C:\\Users\\11918\\Desktop\\test",
+  "author": {
+    "name": "hdX_13",
+    "email": "1191845623@qq.com",
+    "url": "https://hdxl0v3.github.io"
+  },
+  "bin": {
+    "hdx-t2-query": "index.js",
+    "hq": "index.js"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cli-alerts": "^1.2.2",
+    "cli-handle-error": "^4.4.0",
+    "cli-handle-unhandled": "^1.1.1",
+    "cli-meow-help": "^3.1.0",
+    "cli-welcome": "^2.2.2",
+    "meow": "^9.0.0"
+  },
+  "deprecated": false,
+  "description": "Query infos from OpenDigger",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "files": [
+    "index.js",
+    "utils",
+    "pictures"
+  ],
+  "keywords": [
+    "hdx-t2-query",
+    "hdX_13"
+  ],
+  "license": "MIT",
+  "name": "hdx-t2-query",
+  "scripts": {
+    "format": "prettier --write \"./**/*.{js,json}\""
+  },
+  "version": "1.0.4"
+}
